@@ -9,7 +9,7 @@ info:
     name: Patrick Levy
     email: patricklevy@exosite.com
 
-host: https://deliveryteamtestinsight.apps.exosite.io/ # Set this to the host your function is on
+host: deliveryteamtestinsight.apps.exosite.io # Set this to the host your function is on
 basePath: / # Set this or the path according to your function
 schemes:
   - https  # Only https is supported.
